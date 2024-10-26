@@ -5,5 +5,14 @@
 			"description": "Description",
 			"tag": []
 		}
+	],
+	"recipes": [
+		{
+			"name": "Nouvelle recette",
+			"description": "Ca rox !",
+			"tag": [
+				"chaud"
+			]
+		}
 	]
 }
